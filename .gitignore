@@ -1,2 +1,3 @@
 *.py(o|c)
+trade_tracker/settings.py
 
